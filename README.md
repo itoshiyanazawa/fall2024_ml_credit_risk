@@ -54,14 +54,6 @@ The project delivers:
 - Two credit approval strategies (conservative and aggressive)
 - Estimated portfolio default rates and revenues for each strategy
 
-## Presentation
-
-The results are summarized in a comprehensive presentation, including:
-- Executive summary
-- Data overview and feature engineering process
-- Model development and evaluation details
-- Strategy recommendations with supporting analysis
-
 ## Requirements
 
 - Python 3.x
